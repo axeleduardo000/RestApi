@@ -1,0 +1,16 @@
+[
+    {
+   "id": "1" ,
+   "Titulo": "Depredador",
+   "Director": "Axel jeje",
+   "Año": "2020",
+   "Popularidad":"9"
+   },
+   {
+    "id": "2" ,
+    "Titulo": "El juicio",
+    "Director": "Axel jeje",
+    "Año": "2020",
+    "Popularidad":"7"
+    }
+]
